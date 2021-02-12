@@ -1,6 +1,11 @@
-# Glass UI
+# Glass UI Theme
 
 Tutorial about glasmorphism and card rotation
+
+# Tools
+
+* HTML
+* CSS
 
 # Screen
 
